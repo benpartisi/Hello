@@ -1,6 +1,6 @@
 # Hello
 Hello world 
 
-This is a test hello world Read Me file..
+Ok, this is just a test. 
+This would be my READ ME file
 
-one more change.
