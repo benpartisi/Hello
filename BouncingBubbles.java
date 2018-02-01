@@ -1,5 +1,5 @@
 /* Class:   BouncingBubbles
- * Author:  Ben Partida-Silva
+ * Author:  Ben Partisi
  * Purpose: This Java Program implements Threads to make random size and color
  *          bubbles on the screen. It them makes the bubbles move and bounce
  *          inside the window. Plus a "magic" button....
