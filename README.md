@@ -1,7 +1,4 @@
-# Hello
-Hello world 
+# Bouncing Bubbles
+Bouncing Bubbles
 
-Ok, this is just a test. 
-This would be my READ ME file
-
-new text
+Thisis a simple multi threaded Java program that geneartes bubbles on a click and randomizes the direction on which the bubble runs.
