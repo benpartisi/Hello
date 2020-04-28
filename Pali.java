@@ -1,7 +1,7 @@
 /**********************************************
 *
 * Class: Pali
-* Author: Ben Partida-Silva
+* Author: Ben Partida
 * Purpose: This program asks for how many
 * prime number palindromes the user wants 
 * and finds that many palindromes.
